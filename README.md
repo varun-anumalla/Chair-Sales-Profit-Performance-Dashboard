@@ -52,18 +52,26 @@ This Power BI dashboard provides a **complete data story** through interactive v
 
 ---
 
-## 🖼️ Dashboard Screenshots  
+## 🖼️ Dashboard Screenshots
 
-### 1️⃣ Sales Overview  
-![Sales Overview](https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Sales_Overview.png)  
+### 📊 1️⃣ Sales Overview Dashboard
+<p align="center">
+  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Sales_Overview_Dashboard1.png" 
+       alt="Sales Overview Dashboard" width="90%">
+</p>
 
-### 2️⃣ Sales Analysis by Location  
-![Sales Analysis](https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Sales_Analysis_by_Location.png)  
+### 👥 2️⃣ Customer Insights Dashboard
+<p align="center">
+  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Customer_Insights_Dashboard2.png" 
+       alt="Customer Insights Dashboard" width="90%">
+</p>
 
-### 3️⃣ Yearly Sales and Profit  
-![Yearly Sales](https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Year_by_Sales.png)  
+### 📈 3️⃣ Yearly Sales & Profit Dashboard
+<p align="center">
+  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Yearly%20Sales%20and%20Profit_dashboard3.png" 
+       alt="Yearly Sales and Profit Dashboard" width="90%">
+</p>
 
-*(All visuals are optimized for viewing on both mobile and desktop.)*
 
 ---
 
