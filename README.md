@@ -2,6 +2,33 @@
 
 A **Power BI Data Analytics Project** that provides in-depth insights into the sales, profit, and customer behavior of a chair manufacturing company.  
 This interactive dashboard helps track KPIs, identify top-performing products, and understand sales trends across regions and years.  
+## 🖼️ Dashboard Screenshots
+
+### 📊 1️⃣ Sales Overview Dashboard
+<p align="center">
+  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Sales_Overview_Dashboard1.png" 
+       alt="Sales Overview Dashboard" width="90%">
+</p>
+
+### 👥 2️⃣ Customer Insights Dashboard
+<p align="center">
+  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Customer_Insights_Dashboard2.png" 
+       alt="Customer Insights Dashboard" width="90%">
+</p>
+
+### 📈 3️⃣ Yearly Sales & Profit Dashboard
+<p align="center">
+  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Yearly%20Sales%20and%20Profit_dashboard3.png" 
+       alt="Yearly Sales and Profit Dashboard" width="90%">
+</p>
+
+
+---
+
+## 🎥 Dashboard Demo  
+🔗 [Watch the Dashboard Walkthrough Video](https://youtu.be/X77DBkV_ows?si=UJHEsywnOQOy9JXv)  
+
+Get a quick preview of how the dashboard works, with interactive visuals and slicers in action.  
 
 ---
 
@@ -52,41 +79,7 @@ This Power BI dashboard provides a **complete data story** through interactive v
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-### 📊 1️⃣ Sales Overview Dashboard
-<p align="center">
-  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Sales_Overview_Dashboard1.png" 
-       alt="Sales Overview Dashboard" width="90%">
-</p>
-
-### 👥 2️⃣ Customer Insights Dashboard
-<p align="center">
-  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Customer_Insights_Dashboard2.png" 
-       alt="Customer Insights Dashboard" width="90%">
-</p>
-
-### 📈 3️⃣ Yearly Sales & Profit Dashboard
-<p align="center">
-  <img src="https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Yearly%20Sales%20and%20Profit_dashboard3.png" 
-       alt="Yearly Sales and Profit Dashboard" width="90%">
-</p>
-
-
----
-
-## 🎥 Dashboard Demo  
-🔗 [Watch the Dashboard Walkthrough Video](https://github.com/varun-anumalla/Chair-Sales-Profit-Performance-Dashboard/blob/main/Dashboard_Demo.mp4)  
-
-Get a quick preview of how the dashboard works, with interactive visuals and slicers in action.  
-
----
-
 ## 💡 Key Learnings  
 - Creating dynamic visuals using Power BI DAX measures.  
 - Designing a professional dashboard layout with **custom theme colors** and **product images**.  
 - Understanding KPI storytelling and user navigation in BI dashboards.  
-
----
-
-## 📁 Project Structure  
